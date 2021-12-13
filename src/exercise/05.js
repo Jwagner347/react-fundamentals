@@ -1,7 +1,6 @@
 // Styling
 // http://localhost:3000/isolated/exercise/05.js
 
-import { BackgroundColor } from 'chalk'
 import * as React from 'react'
 import '../box-styles.css'
 
